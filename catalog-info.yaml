@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Project_portal_1
+  annotations:
+      github.com/project-slug: orkohunter/magital888
+spec:
+  type: service
+  owner: user:guest
+  lifecycle: experimental
