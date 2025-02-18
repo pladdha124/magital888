@@ -4,7 +4,7 @@ metadata:
   name: magital888
   description: The place to be, for great artists
   annotations:
-    backstage.io/techdocs-ref: pladdha124/magital888
+    backstage.io/techdocs-ref: 'https://github.com/pladdha124/magital888/tree/master/service_with_docs/docs/my-project'
 spec:
   type: other
   lifecycle: unknown
