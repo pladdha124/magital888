@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: magital888
+  annotations:
+    github.com/project-slug: pladdha124/magital888
+spec:
+  type: other
+  lifecycle: unknown
+  owner: puja
