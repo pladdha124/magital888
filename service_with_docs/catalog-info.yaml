@@ -4,7 +4,7 @@ metadata:
   name: service-with-docs
   description: The place to be, for great artists
   annotations :
-    techdocs.io/documentation-url:"https://github.com/pladdha124/magital888/tree/master/service_with_docs/docs"
+    backstage.io/techdocs-ref:"https://github.com/pladdha124/magital888/tree/master/service_with_docs/docs"
 spec:
   type: service
   lifecycle: production
