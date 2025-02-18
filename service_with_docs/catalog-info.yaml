@@ -3,10 +3,10 @@ kind: Component
 metadata:
   name: service-with-docs
   description: The place to be, for great artists
-  annotations:
-    backstage.io/techdocs-ref: dir:.
+  
 spec:
   type: service
   lifecycle: production
   owner: artist-relations-team
-  techdocs-ref:"https://github.com/pladdha124/magital888/tree/master/service_with_docs/docs"
+  techdocs:
+    techdocs-ref:"https://github.com/pladdha124/magital888/tree/master/service_with_docs/docs"
