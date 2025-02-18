@@ -3,8 +3,11 @@ kind: Component
 metadata:
   name: service-with-docs
   description: The place to be, for great artists
-  annotations :
-    backstage.io/techdocs-ref:"https://github.com/pladdha124/magital888/tree/master/service_with_docs/docs"
+  annotations:
+    # Correct URL pointing to the markdown file in the GitHub repository
+    techdocs.io/documentation-url: "https://github.com/pladdha124/magital888/blob/master/service_with_docs/docs/my-project/index.md"
+    # GitHub URL reference for the documentation folder (remove 'blob' for folder references)
+    techdocs.io/ref: "github.com/pladdha124/magital888/service_with_docs/docs"
 spec:
   type: service
   lifecycle: production
