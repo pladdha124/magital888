@@ -5,7 +5,7 @@ metadata:
   description: The place to be, for great artists
   annotations:
      techdocs.io/documentation-url: "https://github.com/pladdha124/magital888/raw/master/service_with_docs/docs/my-project/index.md"
-     techdocs.io/ref: "github.com/pladdha124/magital888/service_with_docs/docs/my-project"
+     backstage.io/techdocs-ref: "github.com/pladdha124/magital888/service_with_docs/docs/my-project"
 
 spec:
   type: service
