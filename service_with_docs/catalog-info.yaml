@@ -5,7 +5,7 @@ metadata:
   description: The place to be, for great artists
   annotations:
     # Correct URL pointing to the markdown file in the GitHub repository
-    #techdocs.io/documentation-url: "https://github.com/pladdha124/magital888/blob/master/service_with_docs/docs/my-project/index.md"
+    techdocs.io/documentation-url: "https://github.com/pladdha124/magital888/blob/master/service_with_docs/docs/my-project/index.md"
     # GitHub URL reference for the documentation folder (remove 'blob' for folder references)
     backstage.io/techdocs-ref: "github.com/pladdha124/magital888/service_with_docs/docs"
 spec:
