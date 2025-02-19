@@ -6,6 +6,7 @@ metadata:
   annotations:
     techdocs.io/documentation-url: "https://raw.githubusercontent.com/pladdha124/magital888/master/docs/my-project/index.md"
     techdocs.io/ref: "github.com/pladdha124/magital888/docs/my-project"
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
