@@ -4,9 +4,9 @@ metadata:
   name: magital888
   description: The place to be, for great artists
   annotations:
-    techdocs.io/documentation-url: "https://github.com/pladdha124/magital888/tree/master/service_with_docs/docs/my-project/index.md"
-    techdocs.io/ref: "https://github.com/pladdha124/magital888/tree/master/service_with_docs/docs/my-project"
-    #backstage.io/techdocs-ref: "https://github.com/pladdha124/magital888/tree/master/service_with_docs/docs/my-project"
+    #techdocs.io/documentation-url: "https://github.com/pladdha124/magital888/tree/master/service_with_docs/docs/my-project/index.md"
+    #techdocs.io/ref: "https://github.com/pladdha124/magital888/tree/master/service_with_docs/docs/my-project"
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
