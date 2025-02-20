@@ -6,6 +6,6 @@ metadata:
   annotations:
      backstage.io/techdocs-ref: dir:.
 spec:
-  type: other
-  lifecycle: unknown
+  type: service
+  lifecycle: production
   owner: puja
